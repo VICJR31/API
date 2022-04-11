@@ -21,7 +21,7 @@ router.post('/', async (req, res) => {
 
     res.send(true);
     // (2/8/22) Edit to check
-    console.log('HIT!!! User Created!');
+    console.log('HIT!!! User Created');
 });
 
 // Validate function (validate User)
